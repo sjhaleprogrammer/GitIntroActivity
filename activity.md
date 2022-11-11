@@ -116,14 +116,14 @@ cd first_project
     display a hidden file?
 
     ```
-
+    You can type in 'ls -a' to show all files including the hidden ones .
 
     ```
 
 2. Run this command to show the hidden files in the current directory. Are there any?
 
     ```
-
+    Yes the file 'App data' , which is usually hiiden shows up .
 
 
     ```
@@ -139,7 +139,7 @@ cd first_project
 
     ```
 
-
+    The command 'git init'  recreates the hidden git file which is needed for commits in case it gets deleted
 
     ```
 
@@ -148,7 +148,7 @@ cd first_project
 
     ```
 
-
+    if you delete '.git' you wont be able to make changes to the project.
 
     ```
 
@@ -159,7 +159,7 @@ cd first_project
 
     ```
 
-
+    You look in file to see if it still has a .git folder  using ls -a command or turn on hidden files in file explorer 
 
     ```
 
@@ -178,7 +178,7 @@ Run `git status` before and after each of these commands.
 1.  What kind of information does `git status` report?
 
     ```
-
+    Will tell you if your project  is up to date 
 
 
     ```
@@ -187,7 +187,7 @@ Run `git status` before and after each of these commands.
 
     ```
 
-
+    intializes new file into project 
 
     ```
 
@@ -195,7 +195,7 @@ Run `git status` before and after each of these commands.
 
     ```
 
-
+    this command adds the file into the git project.
 
     ```
 
