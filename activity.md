@@ -89,7 +89,7 @@ consider changing this configuration before you walk away.
 1.  What are these commands doing?
 
     ```
-
+    stores username and email in git config file    
 
 
     ```
@@ -97,7 +97,7 @@ consider changing this configuration before you walk away.
 2.  What is the purpose of `--global`?
 
     ```
-
+    makes it the username and email for all projects
 
 
     ```
