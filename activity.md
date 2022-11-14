@@ -215,7 +215,7 @@ Run `git status` before and after each of these commands.
 4.  What does `git add .` do? What do you think `.` means?
 
     ```
-
+    stages all the files in the current directory for commit
 
 
     ```
@@ -224,7 +224,7 @@ Run `git status` before and after each of these commands.
 
     ```
 
-
+    commits without a message
 
     ```
 
@@ -232,7 +232,7 @@ Run `git status` before and after each of these commands.
     good practice) what command would you use?
 
     ```
-
+    
 
 
     ```
